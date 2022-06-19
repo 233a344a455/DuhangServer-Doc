@@ -11,7 +11,6 @@
 :::warning
 本客户端使用 `Java17` ，而其他版本的 `Minecraft` 一般使用 `Java8`，若你之前安装过也请重新安装！
 :::
-3. 解压`【Java安装包】xxx.msi` 
 4. 运行启动器: 运行 `HMCLauncher.exe` 等待自动安装完成。**可能需要一些时间。**
 :::tip
 若安装中出现英语提示称可更换 下载源(`Source`)，请选择 中国大陆(`ChinaMainland`) 
