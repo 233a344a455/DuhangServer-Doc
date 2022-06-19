@@ -37,6 +37,6 @@
 :::tip
 若你同时使用电脑版游玩，请将此名称更改与电脑使用的名称相同
 :::
-5. 进入 游戏-服务器 添加新服务器 填入**在QQ群公告中**获取的IP地址
+5. 进入 游戏-服务器 添加新服务器 填入在[QQ群公告中](https://qm.qq.com/cgi-bin/qm/qr?k=Z2p_2QaTLzvvi00iQj5qmOZRI6hYBB8r)获取的IP地址
 6. Enjoy!
 

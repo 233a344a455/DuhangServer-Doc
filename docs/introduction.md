@@ -9,3 +9,7 @@
 - 小玩家熟人群体 不设复杂的经济权限系统 体验原汁原味的生存 有爆肝大佬
 - 高版本服务器 新版的快乐
 - 腾讯云搭建服务器 稳定流畅
+
+:::tip
+加入服务器QQ群: [769351874](https://qm.qq.com/cgi-bin/qm/qr?k=Z2p_2QaTLzvvi00iQj5qmOZRI6hYBB8r)
+:::
