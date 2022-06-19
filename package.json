@@ -1,0 +1,12 @@
+{
+  "name": "DuhangServer-doc",
+  "version": "1.0.0",
+  "description": "Duhang Server document",
+  "main": "index.js",
+  "repository": "git@github.com:233a344a455/DuhangServer-doc.git",
+  "author": "DeltaZero <233a344a455@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
