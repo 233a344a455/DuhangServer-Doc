@@ -2,11 +2,10 @@
 
 服务器提供  `Java`端(电脑端)  与 `Bedrock`端(安卓端)  可选，你可以任意选择手机或电脑，但是**推荐使用Java(电脑端)得到更好体验**。  
 
-**你可以从  [服务器私有云](https://cofile.net/web/share/39249827d3346cf1327d8759a8ebab45)  下载到下文提及的所有需要的文件。**  
-
 ## Java端 - 电脑端
 
-1. 从 [这里](https://cofile.net/web/share/39249827d3346cf1327d8759a8ebab45) 找到并下载 `【Java安装包】xxx.msi` 与 `【电脑客户端】DuhangClient-xxx.zip`
+1. 下载客户端: 从 [这里](https://wwu.lanzouj.com/i1JaP088dnbe) 下载 `【电脑客户端】DuhangClient-xxx.zip`
+1. 下载Java安装包: 从QQ群里要下载 `【Java安装包】xxx.msi` 
 2. 安装Java: 运行 `【Java安装包】xxx.msi` ，完成安装。
 :::warning
 本客户端使用 `Java17` ，而其他版本的 `Minecraft` 一般使用 `Java8`，若你之前安装过也请重新安装！
@@ -29,7 +28,7 @@
 - 流畅的键鼠操作
 :::
 
-1. 从 [这里](https://cofile.net/web/share/39249827d3346cf1327d8759a8ebab45) 找到并下载 `【手机客户端】Minecraft-Bedrock-xxxxx.apk` 并在 **安卓手机** 上安装
+1. 从 QQ群里 找到并下载 `【手机客户端】Minecraft-Bedrock-xxxxx.apk` 并在 **安卓手机** 上安装
 2. 运行安装好的 `Minecraft`
 3. 根据游戏内指引注册 `微软Xbox账号` (正常注册即可，可能比较慢)
 4. 登录 [Xbox网站](https://social.xbox.com/changegamertag)，更改 `玩家代号` 为你的游戏名
