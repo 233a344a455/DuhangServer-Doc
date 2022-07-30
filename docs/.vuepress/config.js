@@ -20,7 +20,7 @@ module.exports = {
       '/tutorial'
     ],
 
-    repo: '233a344a455/DuhangServer-doc',
+    repo: 'deltazefiro/DuhangServer-doc',
 
     docsBranch: 'main',
     docsDir: 'docs',

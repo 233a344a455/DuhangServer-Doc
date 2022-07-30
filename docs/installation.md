@@ -1,14 +1,13 @@
 # 客户端安装
 
-服务器提供  `Java`端(电脑端)  与 `Bedrock`端(安卓端)  可选，你可以任意选择手机或电脑，但是**推荐使用Java(电脑端)得到更好体验**。  
+服务器客户端可选择  `Java`端(电脑端)  与 `Bedrock`端(安卓端) ，您可以选择使用手机或电脑游玩，但**推荐使用Java(电脑端)以得到更好体验**。  
 
 ## Java端 - 电脑端
 
 1. 下载客户端: 从 [这里](https://wwu.lanzouj.com/i1JaP088dnbe) 下载 `【电脑客户端】DuhangClient-xxx.zip`
-1. 下载Java安装包: 从QQ群里要下载 `【Java安装包】xxx.msi` 
-2. 安装Java: 运行 `【Java安装包】xxx.msi` ，完成安装。
+1. 安装Java环境: 点击 [这里](https://cdn.azul.com/zulu/bin/zulu17.36.13-ca-jdk17.0.4-win_x64.msi) 下载  Zulu OpenJDK 17 (`zulu17xxx-xxx-win_x64.msi`) ，并运行安装。
 :::warning
-本客户端使用 `Java17` ，而其他版本的 `Minecraft` 一般使用 `Java8`，若你之前安装过也请重新安装！
+客户端运行环境为 `Java17` ，而其他版本的 `Minecraft` 客户端一般使用 `Java8` 环境，即使您之前安装过Java也请重新安装！
 :::
 3. 运行启动器: 运行 `HMCLauncher.exe` 等待自动安装完成。**可能需要一些时间。**
 :::tip
@@ -23,6 +22,7 @@
 
 :::warning
 如果你使用 `Bedrock端`，你将失去以下体验：
+
 - 服内语音
 - 小地图 光影 等 `Mod` 客户端功能
 - 流畅的键鼠操作
